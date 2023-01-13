@@ -36,6 +36,34 @@
       <option name="presentableId" value="Default" />
       <updated>1673580915934</updated>
     </task>
+    <task id="LOCAL-00001" summary="displaying the array list using for()">
+      <created>1673582417899</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673582417899</updated>
+    </task>
+    <task id="LOCAL-00002" summary="food.set(index,&quot;new element&quot;) - replaces an element in an array">
+      <created>1673582599633</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673582599633</updated>
+    </task>
+    <task id="LOCAL-00003" summary="food.remove() = removes an element from an array list">
+      <created>1673582677455</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673582677455</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="displaying the array list using for()" />
+    <MESSAGE value="food.set(index,&quot;new element&quot;) - replaces an element in an array" />
+    <MESSAGE value="food.remove() = removes an element from an array list" />
+    <option name="LAST_COMMIT_MESSAGE" value="food.remove() = removes an element from an array list" />
   </component>
 </project>
