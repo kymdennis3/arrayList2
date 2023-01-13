@@ -9,6 +9,8 @@ public class Main {
         food.add("Hamburger");
         food.add("Hot dog");
 
+        food.set(1,"Kebab");
+
         for(int i = 0; i<food.size(); i++){
             System.out.println(food.get(i));
         }
