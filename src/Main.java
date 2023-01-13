@@ -10,6 +10,7 @@ public class Main {
         food.add("Hot dog");
 
         food.set(1,"Kebab");
+        food.remove(2);
 
         for(int i = 0; i<food.size(); i++){
             System.out.println(food.get(i));
